@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\тимур\source\repos\project26\project26\source.cpp(42): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\тимур\source\repos\project26\project26\source.cpp(32): warning C4101: a: неиспользованная локальная переменная
+c:\users\тимур\source\repos\project26\project26\source.cpp(63): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project26.vcxproj -> C:\Users\Тимур\source\repos\Project26\Debug\Project26.exe
